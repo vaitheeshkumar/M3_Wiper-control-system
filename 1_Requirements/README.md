@@ -31,7 +31,7 @@ Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency.
 3) An analog signal having an amplitude depending upon the detected rain conditions.
 
 # WHY
-1) Windshield wipers keep the windshield of a vehicle clear from **rain water, snow, dust and road spray** 
+1) Windshield wipers keep the windshield of a vehicle clear for **rain water, snow, dust and road spray** 
 2) The first windshield wipers were operated manually by moving a lever inside the car
 3) The ain purpose of wiper system is to clean the widscreen sufficiently to provide suitable visubility at all times
 
