@@ -13,7 +13,9 @@ The stmcube 32 IDE is being used to mimic this project.
 * 3_Implementation ---> Simulation, Documentation, Makefile & all the C code is written here.
 * 4_Testplan and Output ---> All the images.---> Test cases,  Off Mode, On Mode
 * 5_Report ---> Generated a detailed Report.
-
+# Badges
+# Codacy 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d5edc85dac7e492c9126bc5e33de4674)](https://www.codacy.com/gh/vaitheeshkumar/M3_Wiper-control-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vaitheeshkumar/M3_Wiper-control-system&amp;utm_campaign=Badge_Grade)
 
 ## GITHUB ACTIONS
 # Analysis
