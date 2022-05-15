@@ -17,7 +17,7 @@ The stmcube 32 IDE is being used to mimic this project.
 
 ## GITHUB ACTIONS
 # Analysis
-
+[![Analysis](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Analysis.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Analysis.yml)
 # Build-Linux
 [![Build CI -Linux](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Bulid_Linux.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Bulid_Linux.yml)
 # Build-Windows
