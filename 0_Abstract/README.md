@@ -11,9 +11,8 @@
 7) The warning gear is capable of generating the force required to move the wipers as quickly as they must.
 8) We now have an automated control wiper system that will automatically return to its initial position if we stop wiping in the middle of a procedure. This is the new wiper system behind the wiper arm.
 9) The principle of operation of the proposed wiper system is similar to that of other conventional wipers now in use.
-—-
-FEATURES
----
+
+# FEATURES
 1) It shall lock the car when the button is pressed once
 2) It shall open the car when the button is pressed twice
 3) It shall wiper on and it moves clock wise direction and when the button is pressed thrice
