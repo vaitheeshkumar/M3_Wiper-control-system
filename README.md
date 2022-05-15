@@ -13,3 +13,18 @@ The stmcube 32 IDE is being used to mimic this project.
 * 3_Implementation ---> Simulation, Documentation, Makefile & all the C code is written here.
 * 4_Testplan and Output ---> All the images.---> Test cases,  Off Mode, On Mode
 * 5_Report ---> Generated a detailed Report.
+
+
+## GITHUB ACTIONS
+# Analysis
+
+# Build-Linux
+[![Build CI -Linux](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Bulid_Linux.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Bulid_Linux.yml)
+# Build-Windows
+[![Build CI - Windows](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Build_Windows.yml)
+# CI passing
+[![CI](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/CI.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/CI.yml)
+# Valgrind
+[![Valgrind](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/Valgrind.yml)
+# Git_inspector
+[![Contribution Check - Git Inspector](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/vaitheeshkumar/M3_Wiper-control-system/actions/workflows/git_inspector.yml)
